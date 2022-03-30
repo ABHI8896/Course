@@ -1,0 +1,6 @@
+Name : Abhineet Chauhan
+module : course 1
+
+1. concept of cloning of a repository
+2. Making contribution into the open source projects of IT companies.
+3. Learning about the contribution how it can help grow my career.
